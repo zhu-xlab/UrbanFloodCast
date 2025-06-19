@@ -2,7 +2,7 @@
 
 ## Urban flood forecasting benchmark dataset
 ![UrbanFloodCastBench](https://github.com/HydroPML/UrbanFloodCast/blob/main/Figures/Figures02.png)
-Urban flood forecasting benchmark dataset is introduced for evaluating various neural urban flood modeling and simulation methods. Two urban areas in Berlin, Germany are considered. For both areas, simulations are conducted using 125 distinct design storm rainfall events. The dataset is publicly available on Zenodo (https://zenodo.org/records/14207323).
+Urban flood forecasting benchmark dataset is introduced for evaluating various neural urban flood modeling and simulation methods. Two urban areas in Berlin, Germany are considered. For both areas, simulations are conducted using 125 distinct design storm rainfall events. The dataset is publicly available on ![Zenodo](https://doi.org/10.5281/zenodo.15700880).
 ### Dataset Structure
 
 UrbanFloodCast_Dataset
@@ -50,8 +50,9 @@ To use the TL-DNO model, execute the following steps:
 
 4. **Run the TL-DNO/Fine-tuning-based_DNO.py to rapid and accurate cross-scenario urban flood forecasting.**
 
-5. **Run the TL-DNO/Domain-adaptation-based_DNO.py to continuous learning for diverse urban flood modeling and forecasting tasks.**
+5. **Run the TL-DNO/Domain-adaptation-based_DNO.py to continuous learning for diverse urban flood modeling and forecasting tasks.**  
 Please note that options 4 and 5 depend on your specific requirements.
+
 
 
 
