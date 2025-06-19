@@ -2,7 +2,7 @@
 
 ## Urban flood forecasting benchmark dataset
 ![UrbanFloodCastBench](https://github.com/HydroPML/UrbanFloodCast/blob/main/Figures/Figures02.png)
-Urban flood forecasting benchmark dataset is introduced for evaluating various neural urban flood modeling and simulation methods. Two urban areas in Berlin, Germany are considered. For both areas, simulations are conducted using 125 distinct design storm rainfall events. The dataset is publicly available on ![Zenodo](https://doi.org/10.5281/zenodo.15700880).
+Urban flood forecasting benchmark dataset is introduced for evaluating various neural urban flood modeling and simulation methods. Two urban areas in Berlin, Germany are considered. For both areas, simulations are conducted using 125 distinct design storm rainfall events. The dataset is publicly available on [Zenodo](https://doi.org/10.5281/zenodo.15700880).
 ### Dataset Structure
 
 UrbanFloodCast_Dataset
